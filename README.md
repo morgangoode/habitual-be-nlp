@@ -12,6 +12,9 @@ I have attempted to do just that through creating my own corpus wherein each sen
 
 This project aims to classify the usage of the word "be" in African American Vernacular English (AAVE) using various machine learning models. The goal is to distinguish between different usages with a high degree of accuracy. Given the small dataset of 2,000 rows, the project focuses on creating effective models that fit the data well without overfitting.
 
+### Content Notice
+As Bender, Gebru et al. have also noted, the decision to filter out "slurs" or "obscenities" can result in screening out marginalized voices who have reclaimed these words. Just as I have decided to retain 'stop words', curse words are present in my corpus and therefore represented in the word clouds under the exploratory data analysis section of my Jupyter Notebook.
+
 ## Models
 The following models were used and evaluated:
 
@@ -39,9 +42,9 @@ Despite the inherent limitations of a small dataset created by a team of one, th
 
 As I look to grow this project, I would like to:
 
-* Expand the corpus in collaboration with other native speakers of AAVE and linguistic experts
+* Expand the corpus in collaboration with other native speakers of AAVE and linguistic experts*
 * Experiment with other modeling methods (e.g. support vector machines, neural networks, etc.)
 * Train models on other aspects of AAVE
 
 
-
+  **Please inbox me if this is you and you are interested in collaborating!*
